@@ -8,6 +8,6 @@ public class ExampleClass {
     }
 
     public static void makeSomething(){
-        System.out.println("This is Jenkins project!!");
+        System.out.println("This is Jenkins project!!!");
     }
 }
